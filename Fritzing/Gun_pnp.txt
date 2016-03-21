@@ -1,0 +1,33 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Gun
+*Date=19:15:50
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;5.31185;-7.12302;90;Bottom;J4
+2;;TO92 [THT];3.95295;-25.0935;90;Bottom;Q2
+3;;;19.2819;-19.823;0;Bottom;Part1
+4;220;THT;4.04185;-14.743;0;Bottom;R2
+5;220;THT;4.04185;-4.58302;0;Bottom;R4
+6;;;29.4419;-10.933;0;Bottom;Jumper1
+7;9V;;31.9819;-31.253;180;Bottom;VCC1
+8;100nF;100 mil [THT, multilayer];30.7119;-22.363;0;Bottom;C1
+9;220;THT;4.99435;-19.823;3.50835e-15;Bottom;R1
+10;;THT;5.31185;-17.283;90;Bottom;J2
+11;;;9.12185;-24.903;0;Bottom;Jumper3
+12;1µF;100 mil [THT, electrolytic];38.3319;-29.983;0;Bottom;C2
+13;;THT;5.31185;-12.203;90;Bottom;J3
+14;;THT;5.31185;-32.523;90;Bottom;J1
+15;;THT;35.7919;-13.473;90;Bottom;J5
+16;;;16.7419;-4.58302;0;Bottom;Jumper2
+17;220;THT;4.04185;-9.66302;0;Bottom;R3
+18;;TO92 [THT];34.3314;-24.8141;0;Bottom;Q3
